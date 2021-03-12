@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide"
 ---
-Your text goes here...
+**Quotes** are _**Amazing**_
+> really?
+
 Use the left arrow to go back!
